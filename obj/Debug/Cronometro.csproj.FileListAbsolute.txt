@@ -1,0 +1,8 @@
+C:\Users\IPPESSI\Documents\SharpDevelop Projects\Cronometro\bin\Debug\Cronometro.exe.config
+C:\Users\IPPESSI\Documents\SharpDevelop Projects\Cronometro\bin\Debug\Cronometro.exe
+C:\Users\IPPESSI\Documents\SharpDevelop Projects\Cronometro\bin\Debug\Cronometro.pdb
+C:\Users\IPPESSI\Documents\SharpDevelop Projects\Cronometro\obj\Debug\Cronometro.csprojResolveAssemblyReference.cache
+C:\Users\IPPESSI\Documents\SharpDevelop Projects\Cronometro\obj\Debug\Cronometro.MainForm.resources
+C:\Users\IPPESSI\Documents\SharpDevelop Projects\Cronometro\obj\Debug\Cronometro.csproj.GenerateResource.Cache
+C:\Users\IPPESSI\Documents\SharpDevelop Projects\Cronometro\obj\Debug\Cronometro.exe
+C:\Users\IPPESSI\Documents\SharpDevelop Projects\Cronometro\obj\Debug\Cronometro.pdb
